@@ -15,4 +15,4 @@
 
 ### Detecting atrial fibrillation
 * No matter how good the model, there are so many parameters and hyperparameters to tune, the search space can be enormous
-* We are nearly always in realm of "not enough data"
+* We are nearly always in realm of **"not enough data"**
